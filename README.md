@@ -10,8 +10,6 @@
  
  🌱 I’m currently learning **React, Next.js, C#, and more!**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Azugot/Azugot/issues)**
-
  </div>
  
 <div align="center"> 
