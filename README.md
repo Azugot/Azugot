@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
  🌱 I’m currently learning **React, Next.js, C#, and more!**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
@@ -19,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="augustoscardua@gmail.com">
+  <a href="mailto:augustoscardua@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/augusto-scardua-oliveira-13995021a/" target="_blank">
@@ -64,11 +62,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
